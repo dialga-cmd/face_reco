@@ -1,0 +1,5 @@
+/home/ubuntu/face_reco-master/build/CMakeFiles/FaceReco.dir
+/home/ubuntu/face_reco-master/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/face_reco-master/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/face_reco-master/build/CMakeFiles/FaceReco_autogen_timestamp_deps.dir
+/home/ubuntu/face_reco-master/build/CMakeFiles/FaceReco_autogen.dir
